@@ -389,7 +389,6 @@ sp view
   .top_innner {
     width: 100%;
     height: 700px;
-    top: 40%;
     background-image: url("img/top.jpg");
     background-size: cover;
     background-position: right 21% bottom;
@@ -403,6 +402,7 @@ sp view
     font-size: 25px;
     line-height: 1.5;
     width: 100%;
+    top: 45%;
   }
 
   .br-sp {
